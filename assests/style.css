@@ -1,0 +1,56 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: cornsilk;
+}
+
+.topnav {
+    background-color: rgb(247, 165, 136);
+    float: right;
+    font-size: 17pt;
+    border: 10px olive;
+    width: 200px;
+    position: fixed;
+    height: 40px;
+    right: 0px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+#photo {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+section {
+    background-color: palegoldenrod;
+    height: 250px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.form {
+    align-items: center;
+}
+
+#firstname {
+    display: block;
+}
+
+#lastname {
+    display: block;
+}
+
+#favcolor {
+    display: block;
+}
+
+#email {
+    display: block;
+}
